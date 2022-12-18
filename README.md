@@ -84,10 +84,8 @@ Setup timezone
 
 # create vm from other os
 
-![image](https://user-images.githubusercontent.com/117457616/208311876-c83e533a-18a3-4025-8263-03a0795bd276.png)
-
-
--สร้าง Create VM ตั้งค่าต่างๆตามที่กำหนด โดยจะใช้ระบบปฏิบัติการ kali-linux-2022-3-live-amd64 -ตั้งชื่อ VM ตัวอักษรชื่อภาษาอังกฤษตัวเองอย่างน้อย 3 ตัว-otherOS-เลข VM ID
+-สร้าง Create VM ตั้งค่าต่างๆตามที่กำหนด โดยจะใช้ระบบปฏิบัติการ kali-linux-2022-3-live-amd64 
+-ตั้งชื่อ VM ตัวอักษรชื่อภาษาอังกฤษตัวเองอย่างน้อย 3 ตัว-otherOS-เลข VM ID
 
 ![image](https://user-images.githubusercontent.com/117457616/208313443-cc1dc1d7-f258-4ab9-85f0-55aa0fbb1a24.png)
 ![image](https://user-images.githubusercontent.com/117457616/208313457-93c28cdf-fd0c-4a8e-b7e1-fe65e812721c.png)
